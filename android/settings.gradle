@@ -1,0 +1,3 @@
+rootProject.name = 'BrokenModal'
+
+include ':app'
