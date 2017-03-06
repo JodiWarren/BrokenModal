@@ -48,8 +48,8 @@ class BrokenModal extends Component {
                 </Modal>
 
                 <TouchableHighlight onPress={() => {
-          this.setModalVisible(true)
-        }}>
+                  this.setModalVisible(true)
+                }}>
                     <Text>Show Modal</Text>
                 </TouchableHighlight>
             </View>
